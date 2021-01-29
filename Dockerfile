@@ -1,4 +1,4 @@
-FROM circleci/php:7.2-node-browsers
+FROM circleci/php:7.4-node-browsers
 
 MAINTAINER mail@nikitakiselev.ru
 
